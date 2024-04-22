@@ -1,3 +1,3 @@
-for i in range(20):
+for i in range(25):
     if i % 15 == 0:
         print("fizzbuzz")
